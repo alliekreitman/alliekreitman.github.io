@@ -2,23 +2,6 @@
 title: "Allie S. Kreitman"
 output: html_document
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
-<style type="text/css">
-.title {
-  display: none;
-}
-
-#getting-started img {
-  margin-right: 10px;
-}
-
-</style>
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-
 
 <br>
 
@@ -37,7 +20,7 @@ Colorado College 2021
 
 <div class="col-sm-6">
 
-![](images/20220501.0041.jpg)
+![](assets/img/20220501.0041.jpg)
 </div>
 
 
