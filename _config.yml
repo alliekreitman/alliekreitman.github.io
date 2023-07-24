@@ -21,8 +21,8 @@ author: Allie Kreitman
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
-  Research: "research"
+  Publications: "Publications"
+  Research: "Research"
   CV: "CV"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
