@@ -1,9 +1,5 @@
 [Download CV](https://alliekreitman.github.io/assets/20230519_CV.pdf)
 
-<br> 
-
-<br> 
-
 ## Media Highlights
 [University of Washington MSTP 2023 Cohort](https://mstp.washington.edu/students/mstp-students/?yearChosen=2023)
 
