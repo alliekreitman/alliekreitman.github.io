@@ -1,9 +1,5 @@
 [Download CV](https://alliekreitman.github.io/assets/20230519_CV.pdf)
 
-:Buttons
-:Button label=Download CV, url=https://github.com
-
-
 <br> 
 
 <br> 
