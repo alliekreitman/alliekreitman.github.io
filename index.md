@@ -3,11 +3,14 @@ layout: home
 title: Allie Kreitman
 subtitle: Passionate about using genomics and large data to understand the evolution of viruses and cancer
 ---
-
+<div class-"col-sm-6">
 ##### Entering MD/PhD Candidate at the University of Washington - MS1
 ##### Colorado College 2021
+</div>
 
+<div class="col-sm-6">
 ![](assets/img/20220501.0041.jpg)
+</div>
 
 ### About me
 
