@@ -1,6 +1,6 @@
 [Download CV](https://alliekreitman.github.io/assets/20230519_CV.pdf)
 
-[<kbd> <br> Download CV <br> </kbd>][htps://alliekreitman.github.io/assets/20230519_CV.pdf]
+[<kbd> <br> [Download CV] [htps://alliekreitman.github.io/assets/20230519_CV.pdf] <br> </kbd>]
 
 
 <br> 
