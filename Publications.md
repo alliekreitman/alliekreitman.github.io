@@ -1,7 +1,4 @@
----
-title: "Publications"
-output: html_document
----
+
 My [research experiences](Research.md) have spanned genomics, virology, mathematical modeling, cancer biology, and even a bit on surgical oncology. Here is a list of all my publications and presentations, including those currently in prep and in review. 
 
 <br>
