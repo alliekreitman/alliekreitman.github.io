@@ -1,4 +1,4 @@
-[Download CV](https://alliekreitman.github.io/assets/20230519_CV.pdf)
+[Download CV](https://alliekreitman.github.io/assets/20230519_CV.pdf){: .btn}
 
 
 <br> 
