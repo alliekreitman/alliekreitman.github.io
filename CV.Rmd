@@ -9,7 +9,7 @@ output: html_document
 library(downloadthis)
 
 download_file(
-  path = "CV/20230519_CV.pdf",
+  path = "assets/20230519_CV.pdf",
   output_name = "AllieKreitman_CV",
   button_label = "Download CV"
 )
