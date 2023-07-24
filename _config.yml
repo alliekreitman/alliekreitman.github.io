@@ -53,16 +53,16 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "allie.kreitman@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  # facebook: deanattali
+  github: alliekreitman
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+linkedin: alliekreitman
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-0390-5425
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
@@ -92,8 +92,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
