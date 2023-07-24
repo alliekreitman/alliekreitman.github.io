@@ -20,7 +20,8 @@ author: Allie Kreitman
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Home: "home" 
+  # About Me: "aboutme"
   Publications: "Publications"
   Research: "Research"
   CV: "CV"
