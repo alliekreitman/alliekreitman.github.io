@@ -1,19 +1,4 @@
----
-title: "CV"
-output: html_document
----
-
-<br> 
-
-```{r, echo=FALSE}
-library(downloadthis)
-
-download_file(
-  path = "assets/20230519_CV.pdf",
-  output_name = "AllieKreitman_CV",
-  button_label = "Download CV"
-)
-```
+[Download CV](https://alliekreitman.github.io/assets/20230519_CV.pdf)
 
 <br> 
 
