@@ -25,6 +25,7 @@ Characterize the early COVID-19 Pandemic in Haiti and the Dominican Republic usi
 **Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
 Build logistic regression models of COVID-19 disease severity using patient demographics and underlying conditions with viral clade and single nucleotide polymorphism data.
+[View Poster Here](https://github.com/alliekreitman/alliekreitman.github.io/blob/master/assets/2022_Poster_PostbacPosterDay.jpg)
 
 **COVID-19 Evolution and surveillance sequencing**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
@@ -44,6 +45,7 @@ Study how Epstein Barr Virus modulates oncogenic human protein that are implicat
 **Regulation Of The Hallmarks Of Cancer By Epstein Barr Virus In EBV+ B Cell Lymphomas**   
 COLORADO COLLEGE, HATTON LAB  
 Write a review article using the framework of the hallmarks of cancer to research how Epstein Barr Virus can promote B cell lymphoma formation.
+[View Poster Here](https://github.com/alliekreitman/alliekreitman.github.io/blob/master/assets/AllieKreitman%2BMahalaMoran_Poster_4_SUBMITTED-page-001.jpg)
 
 **The Bayesian Inference Of HIV Drug Selection Rate In Different Drug Environments**
 UNIVERSITY OF CHICAGO, DWYER LAB  
