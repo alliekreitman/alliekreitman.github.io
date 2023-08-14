@@ -6,7 +6,7 @@ output: html_document
 <br>
 
 # What I'm Currently Doing
-I am officially joining the University of Washington's MD/PhD program! I am over the moon about getting to work with the amazing the faculty at UW and get to spend my next 8 or so years in Seattle. This month, I'll be starting my orientation for medical school in summer of 2023 then jumping into my first block, Foundations in Medical Research.  
+I am officially joining the University of Washington's MD/PhD program! I am over the moon about getting to work with the amazing the faculty at UW and get to spend my next 8 or so years in Seattle. For the next 18 months, I will completed my didactic medical education! I am figuring out how to be a medical student, trying to get involved with the program, and already looking into potential research rotations for the upcoming summer. 
 
 <br>
 
