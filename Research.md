@@ -32,7 +32,7 @@ Publications: [Epling et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36200701/), 
 ## Previous projects
 
 <br>
-**Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**  
+**Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
 Build logistic regression models of COVID-19 disease severity using patient demographics and underlying conditions with viral clade and single nucleotide polymorphism data.
 [View Poster Here](https://github.com/alliekreitman/alliekreitman.github.io/blob/master/assets/2022_Poster_PostbacPosterDay.jpg)
