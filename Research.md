@@ -22,11 +22,6 @@ I am officially joining the University of Washington's MD/PhD program! I am over
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
 Characterize the early COVID-19 Pandemic in Haiti and the Dominican Republic using SARS-CoV-2 sequencing and epidemiological data. We are particularly focused on the variants present in the Caribbean and how/when they were introduced in and out of the Caribbean.
 
-**Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**  
-NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
-Build logistic regression models of COVID-19 disease severity using patient demographics and underlying conditions with viral clade and single nucleotide polymorphism data.
-[View Poster Here](https://github.com/alliekreitman/alliekreitman.github.io/blob/master/assets/2022_Poster_PostbacPosterDay.jpg)
-
 **COVID-19 Evolution and surveillance sequencing**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
 Sequence SARS-CoV-2 samples for various projects to better understand evolution and transmission of SARS-CoV-2. 
@@ -37,6 +32,10 @@ Publications: [Epling et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36200701/), 
 ## Previous projects
 
 <br>
+**Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**  
+NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
+Build logistic regression models of COVID-19 disease severity using patient demographics and underlying conditions with viral clade and single nucleotide polymorphism data.
+[View Poster Here](https://github.com/alliekreitman/alliekreitman.github.io/blob/master/assets/2022_Poster_PostbacPosterDay.jpg)
 
 **Regulation Of MCL1 & TSC1 By Epstein Barr Virus Latent Membrane Protein 1**  
 COLORADO COLLEGE, HATTON LAB  
