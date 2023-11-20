@@ -1,8 +1,10 @@
 ---
 layout: home
 title: Allie Kreitman
-subtitle: Passionate about using genomics and large data to understand the evolution of viruses and cancer<br>University of Washington MSTP Fellow, MS1
+subtitle: Passionate about using genomics and large data to understand the evolution of viruses and cancer
 ---
+### University of Washington MSTP Fellow, MS1
+
 ![](assets/img/20220501.0041.jpg)
 
 ### About me
