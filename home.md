@@ -11,7 +11,7 @@ output: html_document
 
 # **Allie Kreitman**
 
-Entering MD/PhD Candidate at the University of Washington  
+MS1 at University of Washington School of Medicine & MSTP Fellow
 Colorado College 2021
 
 ##### Passionate about using genomics and large data to understand the evolution of viruses and cancer.
