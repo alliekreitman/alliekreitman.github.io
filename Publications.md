@@ -33,6 +33,6 @@ Mushegian, A., **Kreitman, A.**, et al. (2024). Genomic Characterizing the Early
 
 **Kreitman, A.**, Mushegian, A., Long, S., Olsen, R., Christensen, P., Subedi, S., Chung, M., Davis, J., Musser, J., Ghedin, E.  (2022). Prediction of COVID-19 disease severity using SARS-CoV-2 single nucleotide polymorphisms. National Institutes of Health Postbac Poster Day.
 
-**Kreitman, A.**, Maung, I., Maier, M., Hatton, H. (2021). Regulation of MCL1 and TSC1 by Epstein Barr Virus Latent Membrane Protein 1. Colorado College Senior Thesis day. 
+**Kreitman, A.**, Maung, I., Maier, M., Hatton, H. (2021). Regulation of MCL1 and TSC1 by Epstein Barr Virus Latent Membrane Protein 1. Colorado College Senior Thesis day. [Colorado College Thesis Archive](https://digitalcc.coloradocollege.edu/record/4530?ln=en&p=allie+kreitman&v=pdf)
 
 **Kreitman, A.**, Moran, M., Hatton, H. (2020). The Hallmarks of Cancer in Epstein Barr Virus related B cell lymphomas. Colorado College Summer Research Symposium Poster Day.
