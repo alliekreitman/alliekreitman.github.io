@@ -1,5 +1,5 @@
 ## CV
-[Download CV](https://alliekreitman.github.io/assets/CV_20240311.pdf)
+[Download CV](https://alliekreitman.github.io/assets/CV_20240704.pdf)
 
 ## Media Highlights
 Univeristy of Washington MSTP introduction
