@@ -14,16 +14,17 @@ Saharia, K., Ramelli, S., Stein, S., Roder, A.E., **Kreitman, A.**, Banakis, S.,
 
 Stier, M. W., Chapman, C. G., **Kreitman, A.**, Hart, J. A., Xiao, S. Y., Siddiqui, U. D., & Waxman, I. (2018). Dissection-enabled scaffold-assisted resection (DeSCAR): a novel technique for resection of residual or non-lifting GI neoplasia of the colon (with video). Gastrointestinal endoscopy, 87(3), 843–851. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/29158178/)
 
+Roder, A., Johnson, K., Knoll, M., Khalfan, M., Wang, B., Banakis, S., **Kreitman, A.**, Mederos, C., Wang, W., Ruchnewitz, D., Samanovic, M., Mulligan, M., Lassig, M., Łuksza, M., Shultz-Cherry, S., Gresham, D., and Ghedin, E.. (2022). Optimized quantification of intra-host viral diversity in SARS-CoV-2 and influenza virus sequence data. mbio [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
+
 <br>
 
 #### In Prep / In Review
-Roder, A., Johnson, K., Knoll, M., Khalfan, M., Wang, B., Banakis, S., **Kreitman, A.**, Mederos, C., Wang, W., Ruchnewitz, D., Samanovic, M., Mulligan, M., Lassig, M., Łuksza, M., Shultz-Cherry, S., Gresham, D., and Ghedin, E.. (2022). Optimized Quantification of Intrahost Viral Diversity in SARS-CoV-2 and Influenza Virus Sequence Data. ASM (Accepted) [biorxiv](https://pubmed.ncbi.nlm.nih.gov/36656775/)
 
-Li, C., **Kreitman, A.**, Dwyer, G. (2023). Bayesian Inference of HIV selection rate under different drug environments. (in preparation)
+Li, C., **Kreitman, A.**, Vanja Dukic, Dwyer, G. (2024). Bayesian Inference of HIV selection rate under different drug environments. (in preparation)
 
-Mushegian, A., **Kreitman, A.**, et al. (2023). Genomic Characterizing the Early SARS-CoV-2 Pandemic in the Caribbean. (in preparation)
+Mushegian, A., **Kreitman, A.**, et al. (2024). Genomic Characterizing the Early SARS-CoV-2 Pandemic in the Caribbean. (in preparation)
 
-**Kreitman, A.**, et al. (2023). Genomic Characterization of the SARS-CoV-2 pandemic in the Dominican Republic. (in preparation)
+**Kreitman, A.**, et al. (2024). Genomic Characterization of the SARS-CoV-2 pandemic in the Dominican Republic. (in preparation)
 
 <br>
 
