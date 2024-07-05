@@ -48,7 +48,7 @@ Build logistic regression models of COVID-19 disease severity using patient demo
 
 **Regulation Of MCL1 & TSC1 By Epstein Barr Virus Latent Membrane Protein 1**  
 COLORADO COLLEGE, HATTON LAB  
-Study how Epstein Barr Virus modulates oncogenic human protein that are implicated in tumorigenesis and may contributed to the formation of Epstein Barr Virus related B cell lymphomas. 
+Study how Epstein Barr Virus modulates oncogenic human protein that are implicated in tumorigenesis and may contributed to the formation of Epstein Barr Virus related B cell lymphomas. [View my honors thesis here](https://digitalcc.coloradocollege.edu/record/4530?ln=en&p=allie+kreitman&v=pdf) 
 
 **Regulation Of The Hallmarks Of Cancer By Epstein Barr Virus In EBV+ B Cell Lymphomas**   
 COLORADO COLLEGE, HATTON LAB  
