@@ -38,7 +38,7 @@ Develop a novel method to quantify the change in select pressure on a pathogen w
 **COVID-19 Evolution and surveillance sequencing**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
 Sequence SARS-CoV-2 samples for various projects to better understand evolution and transmission of SARS-CoV-2. 
-Publications: [Epling et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36200701/), [Saharia et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36695611/), [Roder et al (2023)] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
+Publications: [Epling et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36200701/), [Saharia et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36695611/), [Roder et al (2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
 
 
 **Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**
