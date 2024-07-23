@@ -5,7 +5,7 @@ subtitle: Passionate about using genomics and large data to understand the evolu
 ---
 
 <div style="text-align: center;">
-    <img src="assets/img/20220501.0041.jpg" alt="Description of the image" style="max-width: 50%; height: auto;">
+    <img src="assets/img/20220501.0041.jpg" alt="Description of the image" style="max-width: 70%; height: auto;">
 </div>
 
 ### About me
