@@ -54,7 +54,7 @@ My interests span various scientific fields, including evolutionary biology, can
 <body>
     <div class="container">
         <div class="column">
-            <img src="![](assets/img/20220501.0041.jpg)" alt="Allie">
+            <img src="assets/img/20220501.0041.jpg" alt="Allie Headshot">
         </div>
         <div class="column">
             <p>Hi, I'm Allie! I'm a second-year medical student enrolled in the University of Washington MD/PhD program in Seattle, Washington. I graduated cum laude from Colorado College in 2021 with a bachelor's degree in molecular biology and a minor in mathematical biology. Following my graduation, I worked at the National Institute of Allergy and Infectious Diseases as an INRO scholar in the [Ghedin Lab](https://ghedinlab.org/), where I focused on studying the molecular epidemiology of SARS-CoV-2.
