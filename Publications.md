@@ -8,7 +8,7 @@ My [research experiences](Research.md) have spanned genomics, virology, mathemat
 <br>
 
 ## Papers
-Roder, A., Johnson, K., Knoll, M., Khalfan, M., Wang, B., Banakis, S., **Kreitman, A.**, Mederos, C., Wang, W., Ruchnewitz, D., Samanovic, M., Mulligan, M., Lassig, M., Łuksza, M., Shultz-Cherry, S., Gresham, D., and Ghedin, E.. (2022). Optimized quantification of intra-host viral diversity in SARS-CoV-2 and influenza virus sequence data. mbio [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
+Roder, A., Johnson, K., Knoll, M., Khalfan, M., Wang, B., Banakis, S., **Kreitman, A.**, Mederos, C., Wang, W., Ruchnewitz, D., Samanovic, M., Mulligan, M., Lassig, M., Łuksza, M., Shultz-Cherry, S., Gresham, D., and Ghedin, E.. (2023). Optimized quantification of intra-host viral diversity in SARS-CoV-2 and influenza virus sequence data. mbio [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
 
 Epling, B. P., Rocco, J. M., Boswell, K. L., Laidlaw, E., Galindo, F., Kellogg, A., Das, S., Roder, A., Ghedin, E., **Kreitman, A.**, Dewar, R. L., Kelly, S., Kalish, H., Rehman, T., Highbarger, J., Rupert, A., Kocher, G., Holbrook, M. R., Lisco, A., Manion, M., Sereti, I. (2022). Clinical, Virologic, and Immunologic Evaluation of Symptomatic Coronavirus Disease 2019 Rebound Following Nirmatrelvir/Ritonavir Treatment. Clinical infectious diseases : an official publication of the Infectious Diseases Society of America, ciac663. Advance online publication. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36200701/)
 
