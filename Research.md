@@ -15,7 +15,7 @@ I have wrapped up my first year of medical school, and I am spending my summer d
 <br>
 
 **Metastatic Seeding in Bladder & Prostate Cancer**  
-FRED HUTCHINSON CANCER CENTER, HA LAB
+FRED HUTCHINSON CANCER CENTER, HA LAB     
 For my 5 week rotation project in the Ha lab, I will be trying to apply a metastatic seeding software, MACHINA, to better understand the migratory history of bladder and prostate cancer clones across primary tumors and metastatic sites. 
 
 ## Ongoing projects
