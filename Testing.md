@@ -1,12 +1,10 @@
-
 <!DOCTYPE html>
 <html>
 <head>
     <style>
         .container {
             display: flex;
-            flex-direction: row;
-            justify-content: space-between;
+            flex-wrap: wrap;
         }
         .column {
             flex: 50%;
@@ -21,10 +19,10 @@
 <body>
     <div class="container">
         <div class="column">
-            <img src="assets/img/20220501.0041.jpg" alt="Allie Headshot">
+            <img src="assets/img/20220501.0041.jpg" alt="Allie's Headshot">
         </div>
         <div class="column">
-            <p> example text just for fun</p>
+            <p>Your text goes here. You can write multiple paragraphs or include any Markdown syntax within this text block.</p>
         </div>
     </div>
 </body>
