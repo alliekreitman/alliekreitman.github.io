@@ -4,8 +4,9 @@ title: Allie Kreitman
 subtitle: Passionate about using genomics and large data to understand the evolution of viruses and cancer
 ---
 
-<img src="assets/img/20220501.0041.jpg" alt="Headshot" style="max-width: 50%; height: auto;">
-
+<div style="text-align: center;">
+    <img src="assets/img/20220501.0041.jpg" alt="Description of the image" style="max-width: 50%; height: auto;">
+</div>
 
 ### About me
 
