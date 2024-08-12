@@ -1,8 +1,7 @@
 ## CV
 [Download CV](https://alliekreitman.github.io/assets/CV_20240704.pdf)
 
-<embed src="/assets/CV_20240704.pdf" type="application/pdf">
-[embed][http://example.com/file.pdf](https://alliekreitman.github.io/assets/CV_20240704.pdf)[/embed]
+<object data="assets/CV_20240704.pdf" width="1000" height="1000" type='application/pdf'/>
 
 ## Media Highlights
 Univeristy of Washington MSTP introduction
