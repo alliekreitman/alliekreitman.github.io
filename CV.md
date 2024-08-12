@@ -1,7 +1,7 @@
 ## CV
 [Download CV](https://alliekreitman.github.io/assets/CV_20240704.pdf)
 
-<object data="/assets/CV_20240704.pdf" type="application/pdf" width="100%"> 
+<object data="/assets/CV_20240704.pdf" type="application/pdf" width="80%"> 
 </object>
 
 ## Media Highlights
