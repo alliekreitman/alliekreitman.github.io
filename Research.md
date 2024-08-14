@@ -12,11 +12,11 @@ I have wrapped up my first year of medical school, and I am spending my summer d
 
 # Research Projects
 
-<br>
+
 
 ## Ongoing projects
 
-<br>
+
 
 **Modeling SBS mutations in cancer** <br>
 UNIVERSITY OF WASHINGTON GENOME SCIENCES, FEDER LAB <br>
