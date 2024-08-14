@@ -19,7 +19,9 @@ I have wrapped up my first year of medical school, and I am spending my summer d
 <br>
 
 **Modeling SBS mutations in cancer**
+
 UNIVERSITY OF WASHINGTON GENOME SCIENCES, FEDER LAB
+
 Use modeled cancer data of different growth patterns to understand changes in SBS1 (proportional to number of cell division) and SBS5 (proportional to clock time) mutation proportions. 
 
 **Early COVID-19 Pandemic in the Caribbean**  
