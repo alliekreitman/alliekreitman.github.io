@@ -6,7 +6,7 @@ output: html_document
 <br>
 
 # What I'm Currently Doing
-I have wrapped up my first year of medical school, and I am spending my summer doing research rotations for my PhD. I'll work first in Gavin Ha's lab and then Alison Feder's lab, both focused on computational cancer evolution!
+I have wrapped up my first year of medical school, and I am spending my summer doing research rotations for my PhD. I'll work first in Dr. Gavin Ha's lab and then Dr. Alison Feder's lab, both focused on computational cancer evolution!
 
 <br>
 
@@ -14,13 +14,13 @@ I have wrapped up my first year of medical school, and I am spending my summer d
 
 <br>
 
-**Metastatic Seeding in Bladder & Prostate Cancer**  
-FRED HUTCHINSON CANCER CENTER, HA LAB     
-For my 5 week rotation project in the Ha lab, I will be trying to apply a metastatic seeding software, MACHINA, to better understand the migratory history of bladder and prostate cancer clones across primary tumors and metastatic sites. 
-
 ## Ongoing projects
 
 <br>
+
+**Modeling SBS mutations in cancer**
+UNIVERSITY OF WASHINGTON GENOME SCIENCES, FEDER LAB
+Use modeled cancer data of different growth patterns to understand changes in SBS1 (proportional to number of cell division) and SBS5 (proportional to clock time) mutation proportions. 
 
 **Early COVID-19 Pandemic in the Caribbean**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
@@ -35,11 +35,14 @@ Develop a novel method to quantify the change in select pressure on a pathogen w
 
 <br>
 
+**Metastatic Seeding in Bladder & Prostate Cancer**  
+FRED HUTCHINSON CANCER CENTER, HA LAB     
+For my 5 week rotation project in the Ha lab, I will be trying to apply a metastatic seeding software, MACHINA, to better understand the migratory history of bladder and prostate cancer clones across primary tumors and metastatic sites. 
+
 **COVID-19 Evolution and surveillance sequencing**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
 Sequence SARS-CoV-2 samples for various projects to better understand evolution and transmission of SARS-CoV-2. 
-Publications: [Epling et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36200701/), [Saharia et al (2023)](https://pubmed.ncbi.nlm.nih.gov/36695611/), [Roder et al (2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
-
+Publications: [Epling et al (2022)](https://pubmed.ncbi.nlm.nih.gov/36200701/), [Saharia et al (2022)](https://pubmed.ncbi.nlm.nih.gov/36695611/), [Roder et al (2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
 
 **Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, GHEDIN LAB, SYSTEMS GENOMICS SECTION  
