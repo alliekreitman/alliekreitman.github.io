@@ -8,7 +8,6 @@ output: html_document
 # What I'm Currently Doing
 I have wrapped up my first year of medical school, and I am spending my summer doing research rotations for my PhD. I'll work first in Dr. Gavin Ha's lab and then Dr. Alison Feder's lab, both focused on computational cancer evolution!
 
-<br>
 
 # Research Projects
 
@@ -33,7 +32,6 @@ Develop a novel method to quantify the change in select pressure on a pathogen w
 
 ## Previous projects
 
-<br>
 
 **Metastatic Seeding in Bladder & Prostate Cancer**  
 FRED HUTCHINSON CANCER CENTER, HA LAB     
