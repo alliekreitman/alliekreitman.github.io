@@ -1,8 +1,6 @@
 ## CV
 [View CV](https://docs.google.com/document/d/1fOlEAimrEUoNOQ4pv-h6N55AFGvcoYNAP4u5GNnF61k/edit?usp=sharing)
 
-<object data="/assets/CV_20240704.pdf" type="application/pdf" width="80%"> 
-</object>
 
 ## Media Highlights
 Univeristy of Washington MSTP introduction
