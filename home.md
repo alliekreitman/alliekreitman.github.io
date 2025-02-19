@@ -12,6 +12,7 @@ output: html_document
 # **Allie Kreitman**
 
 MS2 at University of Washington School of Medicine & MSTP Fellow
+2021-2023 NIAID INRO fellow
 Colorado College 2021
 
 ##### Passionate about using genomics and large data to understand the evolution of viruses and cancer.
@@ -26,9 +27,9 @@ Colorado College 2021
 
 ### About me
 
-Hi, I'm Allie! I'm a second-year medical student enrolled in the University of Washington MD/PhD program in Seattle, Washington. I graduated cum laude from Colorado College in 2021 with a bachelor's degree in molecular biology and a minor in mathematical biology. Following my graduation, I worked at the National Institute of Allergy and Infectious Diseases as an INRO scholar in the [Ghedin Lab](https://ghedinlab.org/), where I focused on studying the molecular epidemiology of SARS-CoV-2.
+Hi, I'm Allie! I'm a second-year medical student enrolled in the University of Washington MD/PhD program in Seattle, Washington. I will be starting PhD in the [Feder Lab](https://federlab.github.io/#) in 2025 studying cancer evolution using cancer mutational signatures to understand previous tumor growth. 
 
-My interests span various scientific fields, including evolutionary biology, cancer biology, virology, and data science. I am particularly fascinated by cancer evolution and tumor heterogeneity. In my free time, I enjoy hiking with my dog, rock climbing, backpacking, and playing the cello and guitar.
+My interests span various scientific fields, including evolutionary biology, cancer biology, virology, and data science. I am particularly fascinated by cancer evolution and tumor heterogeneity. My previous work has focused HIV evolution, SARS-CoV-2 genomic epidemiology, and mechanisms of how oncoviruses promote tumorogenesis. In my free time, I enjoy hiking with my dog, rock climbing, backpacking, and playing the cello and guitar.
 
 <br>
 
