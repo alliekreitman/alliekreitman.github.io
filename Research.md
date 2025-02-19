@@ -6,7 +6,7 @@ output: html_document
 <br>
 
 # What I'm Currently Doing
-I have wrapped up my first year of medical school, and I am spending my summer doing research rotations for my PhD. I'll work first in Dr. Gavin Ha's lab and then Dr. Alison Feder's lab, both focused on computational cancer evolution!
+I have wrapped up my second year of medical school, and took my first board exam. Starting in the spring, I will begin my PhD in Dr. Alison Feder's lab at the University of Washington department of Genome Sciences. 
 
 
 # Research Projects
