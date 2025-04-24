@@ -6,7 +6,7 @@ output: html_document
 <br>
 
 # What I'm Currently Doing
-I have wrapped up my second year of medical school, and took my first board exam (USMLE step 1). Starting in the spring, I will begin my PhD in Dr. Alison Feder's lab at the University of Washington department of Genome Sciences. 
+I have just begun my PhD in Dr. Alison Feder's lab at the University of Washington department of Genome Sciences. My work is in cancer evolution and intratumor heterogeneity focusing on clonal spatial reconstruction and growth heterogeneity. 
 
 
 # Research Projects
@@ -23,7 +23,7 @@ Use modeled cancer data of different growth patterns to understand changes in SB
 
 **Early COVID-19 Pandemic in the Caribbean**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
-Characterize the early COVID-19 Pandemic in Haiti and the Dominican Republic using SARS-CoV-2 sequencing and epidemiological data. We are particularly focused on the variants present in the Caribbean and how/when they were introduced in and out of the Caribbean.
+Characterize the early COVID-19 Pandemic in Haiti and the Dominican Republic using SARS-CoV-2 sequencing and epidemiological data. We are particularly focused on the variants present in the Caribbean and how/when they were introduced in and out of the Caribbean. Publications; [Mushegian, Kreitman, et al (2024)](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003536)
 
 **The Bayesian Inference Of HIV Drug Selection Rate In Different Drug Environments**
 UNIVERSITY OF CHICAGO, [DWYER LAB](https://dwyerlab.uchicago.edu/)  
@@ -40,7 +40,7 @@ For my 5 week rotation project in the Ha lab, I will be trying to apply a metast
 **COVID-19 Evolution and surveillance sequencing**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
 Sequence SARS-CoV-2 samples for various projects to better understand evolution and transmission of SARS-CoV-2. 
-Publications: [Epling et al (2022)](https://pubmed.ncbi.nlm.nih.gov/36200701/), [Saharia et al (2022)](https://pubmed.ncbi.nlm.nih.gov/36695611/), [Roder et al (2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/), [Mushegian et al (2024)](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003536)
+Publications: [Epling et al (2022)](https://pubmed.ncbi.nlm.nih.gov/36200701/), [Saharia et al (2022)](https://pubmed.ncbi.nlm.nih.gov/36695611/), [Roder et al (2023)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
 
 **Predicting COVID-19 Disease Severity Using SARS-CoV-2 Single Nucleotide Polymorphisms**
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
