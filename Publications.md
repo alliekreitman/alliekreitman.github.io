@@ -4,7 +4,7 @@ My [research experiences](Research.md) have spanned genomics, virology, mathemat
 <br>
 
 [ORCID](https://orcid.org/0000-0002-0390-5425): 0000-0002-0390-5425
-
+[Google Scholar](https://scholar.google.com/citations?user=hmmY9C8AAAAJ&hl=en)
 <br>
 
 ## Papers
