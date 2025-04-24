@@ -26,6 +26,7 @@ Colorado College 2021
 
 
 ### About me
+DONT EDIT ME - GO TO index.md to change home page
 
 Hi, I'm Allie! I'm a first-year PhD student enrolled in the University of Washington MD/PhD program in Seattle, Washington. I work in the [Feder Lab](https://federlab.github.io/#) studying cancer evolution growth heterogeneity and clonal spatial reconstruction. 
 
