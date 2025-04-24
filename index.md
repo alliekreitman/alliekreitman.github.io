@@ -10,7 +10,7 @@ subtitle: Passionate about using genomics and large data to understand the evolu
 
 ### About me
 
-Hi, I'm Allie! I'm a second-year medical student enrolled in the University of Washington MD/PhD program in Seattle, Washington. I will be starting PhD in the [Feder Lab](https://federlab.github.io/#) in 2025 studying cancer evolution using cancer mutational signatures to understand previous tumor growth. 
+Hi, I'm Allie! I'm a first-year PhD student enrolled in the University of Washington MD/PhD program in Seattle, Washington. I work in the [Feder Lab](https://federlab.github.io/#) studying cancer evolution growth heterogeneity and clonal spatial reconstruction. 
 
 My interests span various scientific fields, including evolutionary biology, cancer biology, virology, and data science. I am particularly fascinated by cancer evolution and tumor heterogeneity. My previous work has focused HIV evolution, SARS-CoV-2 genomic epidemiology, and mechanisms of how oncoviruses promote tumorogenesis. In my free time, I enjoy hiking with my dog, rock climbing, backpacking, and playing the cello and guitar.
 
