@@ -21,10 +21,6 @@ I have just begun my PhD in Dr. Alison Feder's lab at the University of Washingt
 UNIVERSITY OF WASHINGTON GENOME SCIENCES, [FEDER LAB](https://federlab.github.io/#) <br>
 Use modeled cancer data of different growth patterns to understand changes in SBS1 (proportional to number of cell division) and SBS5 (proportional to clock time) mutation proportions. 
 
-**Early COVID-19 Pandemic in the Caribbean**  
-NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
-Characterize the early COVID-19 Pandemic in Haiti and the Dominican Republic using SARS-CoV-2 sequencing and epidemiological data. We are particularly focused on the variants present in the Caribbean and how/when they were introduced in and out of the Caribbean. Publications; [Mushegian, Kreitman, et al (2024)](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003536)
-
 **The Bayesian Inference Of HIV Drug Selection Rate In Different Drug Environments**
 UNIVERSITY OF CHICAGO, [DWYER LAB](https://dwyerlab.uchicago.edu/)  
 Develop a novel method to quantify the change in select pressure on a pathogen within a host after a change in environment using non-synonymous to synonymous mutation rate ratio and coalescent theory. We then apply this method to study HIV selection after a change in drug therapy.
@@ -36,6 +32,10 @@ Develop a novel method to quantify the change in select pressure on a pathogen w
 **Metastatic Seeding in Bladder & Prostate Cancer**  
 FRED HUTCHINSON CANCER CENTER, [HA LAB](https://gavinhalab.org/)     
 For my 5 week rotation project in the Ha lab, I will be trying to apply a metastatic seeding software, MACHINA, to better understand the migratory history of bladder and prostate cancer clones across primary tumors and metastatic sites. 
+
+**Early COVID-19 Pandemic in the Caribbean**  
+NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
+Characterize the early COVID-19 Pandemic in Haiti and the Dominican Republic using SARS-CoV-2 sequencing and epidemiological data. We are particularly focused on the variants present in the Caribbean and how/when they were introduced in and out of the Caribbean. Publications; [Mushegian, Kreitman, et al (2024)](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003536), [Kreitman et al (2026)](https://journals.asm.org/doi/10.1128/spectrum.01105-25)
 
 **COVID-19 Evolution and surveillance sequencing**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
