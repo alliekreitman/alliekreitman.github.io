@@ -27,8 +27,6 @@ Stier, M. W., Chapman, C. G., **Kreitman, A.**, Hart, J. A., Xiao, S. Y., Siddiq
 #### In Prep / In Review
 Li, C.+, **Kreitman, A.+**, Vanja Dukic, Dwyer, G. (2024). <u>Bayesian Inference of HIV selection rate under different drug environments.</u> (in revision)
 
-**Kreitman, A.**, Mushegian, A+, et al. (2024). <u>Genomic Characterization of the SARS-CoV-2 pandemic in the Dominican Republic.</u> (in review)
-
 <br>
 
 ## Presentations & Posters
