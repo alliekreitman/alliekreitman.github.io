@@ -9,6 +9,8 @@ My [research experiences](Research.md) have spanned genomics, virology, mathemat
 <br>
 
 ## Papers
+**Kreitman A**+, Mushegian A+, Nelson MI, Banakis S, Mederos C, Chung M, Roder A, Peguero A, Mueses S, Cuevas P, Paulino-Ramírez R, Ghedin E. <u>Genomic analysis reveals dynamics of SARS-CoV-2 during the initial phases of the COVID-19 outbreak in the Dominican Republic.<u> Microbiol Spectr. 2026 Jan 23:e0110525. doi: 10.1128/spectrum.01105-25. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/41575210/).
+
 Mushegian A+, **Kreitman A+**, Nelson MI, Chung M, Mederos C, Roder A, Banakis S, Desormeaux AM, Jean Charles NL, Grant-Greene Y, Marseille S, Pierre K, Lafontant D, Boncy J, Journel I, Buteau J, Juin S, Ghedin E. (2024) <u>Genomic analysis of the early COVID-19 pandemic in Haiti reveals Caribbean-specific variant dynamics.</u> PLOS Glob Public Health. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39565753/)
 
 Roder, A., Johnson, K., Knoll, M., Khalfan, M., Wang, B., Banakis, S., **Kreitman, A.**, Mederos, C., Wang, W., Ruchnewitz, D., Samanovic, M., Mulligan, M., Lassig, M., Łuksza, M., Shultz-Cherry, S., Gresham, D., and Ghedin, E.. (2023). <u>Optimized quantification of intra-host viral diversity in SARS-CoV-2 and influenza virus sequence data.</u> mbio [Pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10470513/)
