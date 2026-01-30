@@ -25,7 +25,7 @@ Stier, M. W., Chapman, C. G., **Kreitman, A.**, Hart, J. A., Xiao, S. Y., Siddiq
 <br>
 
 #### In Prep / In Review
-Li, C.+, **Kreitman, A.+**, Vanja Dukic, Dwyer, G. (2024). <u>Bayesian Inference of HIV selection rate under different drug environments.</u> (in revision)
+Li, C.+, **Kreitman, A.+**, Dukic, V., Dwyer, G. (2024). <u>Bayesian Inference of HIV selection rate under different drug environments.</u> (in revision)
 
 <br>
 
