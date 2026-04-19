@@ -30,6 +30,7 @@ Li, C.+, **Kreitman, A.+**, Dukic, V., Dwyer, G. (2024). <u>Bayesian Inference o
 <br>
 
 ## Presentations & Posters
+**Kreitman, A.** and Feder, A. (2026). <u>Disentangling evolutionary rate heterogeneity in tumors using mutational signatures on phylogenies.</u> Mutations in time and space
 
 **Kreitman, A.**, Mushegian, A., Long, S., Olsen, R., Christensen, P., Subedi, S., Chung, M., Davis, J., Musser, J., Ghedin, E.  (2022). <u>Prediction of COVID-19 disease severity using SARS-CoV-2 single nucleotide polymorphisms.</u> National Institutes of Health Postbac Poster Day.
 
