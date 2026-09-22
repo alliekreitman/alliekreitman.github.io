@@ -9,6 +9,8 @@ My [research experiences](Research.md) have spanned genomics, virology, mathemat
 <br>
 
 ## Papers
+Itagi P, Schuster SL, Arora S, Persse TW, Waters JA, Yang M, Min A, Chandra P, Adil M, Galipeau PC, Rudoy D, **Kreitman AS**, Lin Y, Ko M, Sayar E, Patton RD, Kollath L, Meis A, Lindergren S, Ji N, Ali K, Venkatesh H, Wladyka CL, McDeed AP, Mills CB, Vashisth M, Kim JY, Nadal R, Hawley JE, Yezefski TA, Psutka SP, Gore JL, Lin DW, Nelson PS, Cheng HH, Schweizer MT, Fong L, Lee JK, Yu EY, Corey E, Morrissey C, Grivas P, Montgomery RB, Wright JL, Haffner MC, Vakar-Lopez F, Mian OY, Lam HM, Hsieh AC, Ha G. <u>Evolution and heterogeneity of lethal metastatic bladder cancer subtypes.</u> Nature. 2026 Sep 16. doi: 10.1038/s41586-026-11035-z. [PMID: 42749807](https://pubmed.ncbi.nlm.nih.gov/42749807/).
+
 **Kreitman A**+, Mushegian A+, Nelson MI, Banakis S, Mederos C, Chung M, Roder A, Peguero A, Mueses S, Cuevas P, Paulino-Ramírez R, Ghedin E. <u>Genomic analysis reveals dynamics of SARS-CoV-2 during the initial phases of the COVID-19 outbreak in the Dominican Republic.</u> Microbiol Spectr. 2026 Jan 23:e0110525. doi: 10.1128/spectrum.01105-25. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/41575210/)
 
 Mushegian A+, **Kreitman A+**, Nelson MI, Chung M, Mederos C, Roder A, Banakis S, Desormeaux AM, Jean Charles NL, Grant-Greene Y, Marseille S, Pierre K, Lafontant D, Boncy J, Journel I, Buteau J, Juin S, Ghedin E. (2024) <u>Genomic analysis of the early COVID-19 pandemic in Haiti reveals Caribbean-specific variant dynamics.</u> PLOS Glob Public Health. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39565753/)
@@ -24,16 +26,14 @@ Stier, M. W., Chapman, C. G., **Kreitman, A.**, Hart, J. A., Xiao, S. Y., Siddiq
 
 <br>
 
-#### In Prep / In Review
-Li, C.+, **Kreitman, A.+**, Dukic, V., Dwyer, G. (2024). <u>Bayesian Inference of HIV selection rate under different drug environments.</u> (in revision)
-
-<br>
-
 ## Presentations & Posters
+### Talks
+**Kreitman, A.** and Feder, A. (2026). <u>Disentangling Uneven Mutational Processes in Tumors using Mutational Signatures on Phylogenies.</u> Functions of Evolving Systems GRC
+
+**Kreitman, A.**, Maung, I., Maier, M., Hatton, H. (2021). <u>Regulation of MCL1 and TSC1 by Epstein Barr Virus Latent Membrane Protein 1.</u> Colorado College Senior Thesis day. [Colorado College Thesis Archive](https://digitalcc.coloradocollege.edu/record/4530?ln=en&p=allie+kreitman&v=pdf)
+### Posters
 **Kreitman, A.** and Feder, A. (2026). <u>Disentangling evolutionary rate heterogeneity in tumors using mutational signatures on phylogenies.</u> Mutations in time and space
 
 **Kreitman, A.**, Mushegian, A., Long, S., Olsen, R., Christensen, P., Subedi, S., Chung, M., Davis, J., Musser, J., Ghedin, E.  (2022). <u>Prediction of COVID-19 disease severity using SARS-CoV-2 single nucleotide polymorphisms.</u> National Institutes of Health Postbac Poster Day.
-
-**Kreitman, A.**, Maung, I., Maier, M., Hatton, H. (2021). <u>Regulation of MCL1 and TSC1 by Epstein Barr Virus Latent Membrane Protein 1.</u> Colorado College Senior Thesis day. [Colorado College Thesis Archive](https://digitalcc.coloradocollege.edu/record/4530?ln=en&p=allie+kreitman&v=pdf)
 
 **Kreitman, A.**, Moran, M., Hatton, H. (2020). <u>The Hallmarks of Cancer in Epstein Barr Virus related B cell lymphomas.</u> Colorado College Summer Research Symposium Poster Day.
