@@ -17,9 +17,9 @@ I have just begun my PhD in Dr. Alison Feder's lab at the University of Washingt
 
 
 
-**Modeling SBS mutations in cancer** <br>
+**Using clock-like SBS1 Mutations on Phylogenies to Calibrate Cancer Clocks** <br>
 UNIVERSITY OF WASHINGTON GENOME SCIENCES, [FEDER LAB](https://federlab.github.io/#) <br>
-Use modeled cancer data of different growth patterns to understand changes in SBS1 (proportional to number of cell division) and SBS5 (proportional to clock time) mutation proportions. 
+My graduate work develops methods to use clock-like mutational processes in cancer to calibrate phylogenetic branch lengths. Standard approaches biasing branch-length inference due to temporal and spatial variation in tumor mutational processes. I developed SigPruner, a simulation framework that uses SBS1 (CpG transition) mutations, which are clock-like, to correct for this bias.
 
 **The Bayesian Inference Of HIV Drug Selection Rate In Different Drug Environments**
 UNIVERSITY OF CHICAGO, [DWYER LAB](https://dwyerlab.uchicago.edu/)  
@@ -31,7 +31,7 @@ Develop a novel method to quantify the change in select pressure on a pathogen w
 
 **Metastatic Seeding in Bladder & Prostate Cancer**  
 FRED HUTCHINSON CANCER CENTER, [HA LAB](https://gavinhalab.org/)     
-For my 5 week rotation project in the Ha lab, I will be trying to apply a metastatic seeding software, MACHINA, to better understand the migratory history of bladder and prostate cancer clones across primary tumors and metastatic sites. 
+For my 5 week rotation project in the Ha lab, I aimed to better understand metastatic seeding routes by applying a metastatic seeding software, MACHINA. This illuminated unique migratory histories of bladder and prostate cancer clones across primary tumors and metastatic sites. [Itagi et al (2026)](https://www.nature.com/articles/s41586-026-11035-z)
 
 **Early COVID-19 Pandemic in the Caribbean**  
 NATIONAL INSTITUTE OF ALLERGY AND INFECTIOUS DISEASES, [GHEDIN LAB](https://ghedinlab.org/lab-members/), SYSTEMS GENOMICS SECTION  
