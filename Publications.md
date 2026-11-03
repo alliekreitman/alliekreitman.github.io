@@ -1,12 +1,15 @@
+---
+layout: page
+title: Publications
+subtitle: Papers, preprints, and presentations
+permalink: /Publications/
+---
 
-My [research experiences](Research.md) have spanned genomics, virology, mathematical modeling, cancer biology, and even a bit on surgical oncology. Here is a list of all my publications and presentations, including those currently in prep and in review. 
-
-<br>
+My [research experiences](/Research/) have spanned genomics, virology, mathematical modeling, cancer biology, and even a bit on surgical oncology. Here is a list of all my publications and presentations, including those currently in prep and in review. 
 
 [ORCID](https://orcid.org/0000-0002-0390-5425): 0000-0002-0390-5425
 
 [Google Scholar](https://scholar.google.com/citations?user=hmmY9C8AAAAJ&hl=en)
-<br>
 
 ## Papers
 Itagi P, Schuster SL, Arora S, Persse TW, Waters JA, Yang M, Min A, Chandra P, Adil M, Galipeau PC, Rudoy D, **Kreitman AS**, Lin Y, Ko M, Sayar E, Patton RD, Kollath L, Meis A, Lindergren S, Ji N, Ali K, Venkatesh H, Wladyka CL, McDeed AP, Mills CB, Vashisth M, Kim JY, Nadal R, Hawley JE, Yezefski TA, Psutka SP, Gore JL, Lin DW, Nelson PS, Cheng HH, Schweizer MT, Fong L, Lee JK, Yu EY, Corey E, Morrissey C, Grivas P, Montgomery RB, Wright JL, Haffner MC, Vakar-Lopez F, Mian OY, Lam HM, Hsieh AC, Ha G. <u>Evolution and heterogeneity of lethal metastatic bladder cancer subtypes.</u> Nature. 2026 Sep 16. doi: 10.1038/s41586-026-11035-z. [PMID: 42749807](https://pubmed.ncbi.nlm.nih.gov/42749807/).
@@ -22,9 +25,6 @@ Epling, B. P., Rocco, J. M., Boswell, K. L., Laidlaw, E., Galindo, F., Kellogg, 
 Saharia, K., Ramelli, S., Stein, S., Roder, A.E., **Kreitman, A.**, Banakis, S., Chung, J.Y., Burbelo, P., Singh, P., Reed, R., Patel, V., Rabin, P., Krupnick, A., Cohen, R., de Wit, E., Ghedin, E., Hewitt, S.,. Vannella, S., Chertow, S., Grazioli, A. (2022). <u>Successful lung transplantation using an allograft from a COVID-19 recovered donor.</u> American Journal of Transplantation. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/36695611/)
 
 Stier, M. W., Chapman, C. G., **Kreitman, A.**, Hart, J. A., Xiao, S. Y., Siddiqui, U. D., & Waxman, I. (2018). <u>Dissection-enabled scaffold-assisted resection (DeSCAR): a novel technique for resection of residual or non-lifting GI neoplasia of the colon (with video).</u> Gastrointestinal endoscopy, 87(3), 843–851. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/29158178/)
-
-
-<br>
 
 ## Presentations & Posters
 ### Talks
